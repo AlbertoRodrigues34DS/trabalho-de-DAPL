@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\desenvolvimento do uia\bin\Debug\desenvolvimento do uia.exe.config
+C:\Users\Aluno\source\repos\desenvolvimento do uia\bin\Debug\desenvolvimento do uia.exe
+C:\Users\Aluno\source\repos\desenvolvimento do uia\bin\Debug\desenvolvimento do uia.pdb
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento do uia.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento_do_uia.confirmar.resources
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento_do_uia.Properties.Resources.resources
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento do uia.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento do uia.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento do uia.exe
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento do uia.pdb
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento_do_uia.Form3.resources
+C:\Users\Aluno\source\repos\desenvolvimento do uia\obj\Debug\desenvolvimento_do_uia.UserControl1.resources
