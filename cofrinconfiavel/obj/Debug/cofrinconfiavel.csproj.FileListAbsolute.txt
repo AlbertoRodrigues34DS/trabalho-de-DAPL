@@ -1,0 +1,19 @@
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\bin\Debug\Dados a serem utilizados.mdf
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\bin\Debug\Dados a serem utilizados_log.ldf
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\bin\Debug\cofrinconfiavel.exe.config
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\bin\Debug\cofrinconfiavel.exe
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\bin\Debug\cofrinconfiavel.pdb
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.csproj.AssemblyReference.cache
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form1.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form2.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Properties.Resources.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.csproj.GenerateResource.cache
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.exe
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.pdb
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form3.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form4.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form5.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form6.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form7.resources
+C:\Users\Cleber\source\repos\cofrinconfiavel\cofrinconfiavel\obj\Debug\cofrinconfiavel.Form8.resources
